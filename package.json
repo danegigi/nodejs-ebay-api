@@ -1,5 +1,5 @@
 {
-  "name": "ebay-api",
+  "name": "ebay-xml-request",
   "description": "eBay API Client",
   "version": "1.13.1",
   "homepage": "https://github.com/benbuckman/nodejs-ebay-api",
